@@ -1,2 +1,2 @@
-# docker-gearman
+# Gearman Server
 Gearman docker image
